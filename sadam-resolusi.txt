@@ -1,6 +1,4 @@
 SADAM RESOLUSI
-- Konsisten untuk membuat konten 2x seminggu
-- Membuat platform untuk pengolaan video
 - Membuat forum diskusi
 - Membuat aplikasi
 - Koaborasi dengan development terkenal
